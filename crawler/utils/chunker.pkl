@@ -1,0 +1,6 @@
+Äcchunker
+UnigramChunker
+q)Åq}qUtaggerqcnltk.tag.sequential
+UnigramTagger
+q)Åq}q(U_taggersq]q	haU_nq
+KU_context_to_tagq}q(UPRP$qUB-NPqUVBGqUB-VPqUFWqUI-NPqUVBqUI-VPqUPOSqUB-NPqU''qUOUVBPqUB-VPqUWDTqUB-NPqUJJqUI-NPqUWPqUB-NPqUVBZq UB-VPq!UDTq"UB-NPq#U#UB-NPq$URPq%UOU$UB-NPq&UNNq'UI-NPq(U)UOU(UOUVBDq)UB-VPq*U,UOU.UOUTOq+UB-PPq,UPRPq-UB-NPq.URBq/UOU:UOUNNSq0UI-NPq1UNNPq2UI-NPq3U``q4UOUWRBq5UOUCCq6UOUPDTq7UB-NPq8URBSq9UB-NPq:URBRq;UOUVBNq<UI-VPq=UEXq>UB-NPq?UINq@UB-PPqAUWP$qBUB-NPqCUCDqDUI-NPqEUMDqFUB-VPqGUNNPSqHUI-NPqIUJJSqJUI-NPqKUJJRqLUB-NPqMUSYMqNUOUUHqOUOuubsb.
