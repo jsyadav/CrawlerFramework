@@ -1,9 +1,0 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-import sys,re
-import os
-from ConfigParser import ConfigParser
-
-config = ConfigParser()
-config.readfp(open('/Users/cnu/Projects/Serendio/Crawler/crawler.cfg'))
